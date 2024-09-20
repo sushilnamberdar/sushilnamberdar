@@ -20,14 +20,6 @@ Welcome to my GitHub profile! I'm a passionate MERN stack developer specializing
 - **Version Control:** Git, GitHub
 - **Operating Systems:** Linux
 
-## Projects
-
-Here are a few of my favorite projects:
-
-1. [Project Name](link to project) - Brief description of what the project does.
-2. [Project Name](link to project) - Brief description of what the project does.
-3. [Project Name](link to project) - Brief description of what the project does.
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sushilnamberdar/)
